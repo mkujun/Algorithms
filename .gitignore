@@ -2,4 +2,6 @@
 .vs/Algorithms/v15
 /Algorithms/bin
 /Algorithms/obj
+/Algorithms/Properties/
+/UnitTests/*
 
